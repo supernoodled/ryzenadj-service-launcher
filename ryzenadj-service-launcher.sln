@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ryzenadj-service-launcher", "ryzenadj-service-launcher\ryzenadj-service-launcher.csproj", "{2BB6DA6C-6542-4F0E-A6BB-C1A940E3C856}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BB6DA6C-6542-4F0E-A6BB-C1A940E3C856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB6DA6C-6542-4F0E-A6BB-C1A940E3C856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB6DA6C-6542-4F0E-A6BB-C1A940E3C856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB6DA6C-6542-4F0E-A6BB-C1A940E3C856}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E5327A0-2A2C-4A0A-97D7-2357F320A992}
+	EndGlobalSection
+EndGlobal
