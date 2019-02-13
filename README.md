@@ -1,3 +1,3 @@
 # ryzenadj-service-launcher
 
-a launcher for https://github.com/akasarx/ryzenadj-service
+a launcher written in c# for https://github.com/akasarx/ryzenadj-service
